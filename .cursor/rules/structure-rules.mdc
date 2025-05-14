@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## Regras de Estrutura do Projeto
+
+- Todas as telas do projeto devem ser feitas utilizando os componentes do shadcn ui.
+- O projeto deve utilizar o authjs para autenticação e autorização
+- O projeto deve seguir o padrão de Services, Repository e Model.
+- Os componentes devem ser feitos utilizando composite pattern
+- Sempre que for criada uma API, deve ser criada uma action ao invés de realizar o fetch diretamente no client-side.
+
+
